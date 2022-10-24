@@ -2,7 +2,7 @@
 <h1 align="center">Base de Datos I</h1>
 <h3 align="center">Portafolio creado para el uso estudiantil.</h3>
 
-## ✨ Screenshots
+## ✨ Informacion general del repositorio
 
 Clonar el repositorio desde git bash
 ```sh
