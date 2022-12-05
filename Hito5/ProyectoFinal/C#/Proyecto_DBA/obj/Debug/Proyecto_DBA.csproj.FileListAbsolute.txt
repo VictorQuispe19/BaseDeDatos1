@@ -1,0 +1,28 @@
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\bin\Debug\Proyecto_DBA.exe.config
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\bin\Debug\Proyecto_DBA.exe
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\bin\Debug\Proyecto_DBA.pdb
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.exe
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.pdb
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Inicio.resources
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.BuscarLibro.resources
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Solicitar.resources
+C:\Users\ASUS\source\repos\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Horario.resources
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\bin\Debug\Proyecto_DBA.exe.config
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\bin\Debug\Proyecto_DBA.exe
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\bin\Debug\Proyecto_DBA.pdb
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.AssemblyReference.cache
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Horario.resources
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Inicio.resources
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.BuscarLibro.resources
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Properties.Resources.resources
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.Solicitar.resources
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.GenerateResource.cache
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.exe
+C:\Users\VICTOR HUGO\Desktop\Proyecto_DBA\Proyecto_DBA\obj\Debug\Proyecto_DBA.pdb
